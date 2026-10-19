@@ -1,0 +1,8 @@
+onnxruntime
+customtkinter
+pedalboard
+sounddevice
+numpy
+demucs
+imageio-ffmpeg
+tkinterdnd2

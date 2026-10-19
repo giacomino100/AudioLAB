@@ -1,0 +1,61 @@
+{
+  "creato": "2026-10-19",
+  "versione": "prima del riordino del codice",
+  "nota": "Impostazioni approvate dall'utente: Demucs + Volume Forte + EQ automatico",
+  "casi": {
+    "predefinito": {
+      "opzioni": {
+        "togli_voce": true,
+        "hq": false,
+        "motore": "Demucs",
+        "livello": 1.0,
+        "semitoni": 0,
+        "velocita": 1.0
+      },
+      "eq_automatica": {
+        "bassi": -0.7,
+        "medi": 0.9,
+        "alti": -0.2
+      },
+      "ripetibile": true,
+      "secondi": 16.5,
+      "tracce": {
+        "Base": [
+          2,
+          661500
+        ],
+        "Voce": [
+          2,
+          661500
+        ]
+      }
+    },
+    "controllo": {
+      "opzioni": {
+        "togli_voce": true,
+        "hq": false,
+        "motore": "MDX-Net",
+        "livello": 0.6,
+        "semitoni": -2,
+        "velocita": 0.9
+      },
+      "eq_automatica": {
+        "bassi": -0.7,
+        "medi": 0.8,
+        "alti": -0.2
+      },
+      "ripetibile": true,
+      "secondi": 20.7,
+      "tracce": {
+        "Base": [
+          2,
+          735000
+        ],
+        "Voce": [
+          2,
+          735000
+        ]
+      }
+    }
+  }
+}

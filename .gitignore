@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Audio di prova del test di qualità: è un estratto di una canzone protetta da copyright
+# (e il suono di riferimento ne deriva). Resta solo sul PC, non va pubblicato.
+test/dati/*.flac
+test/dati/*.npz
+test/dati/*.wav
+test/dati/*.mp3
+
+# Uscite di prova
+autotest.log
